@@ -47,15 +47,15 @@ experience:
     company: University of Plymouth
     company_url: 'https://www.plymouth.ac.uk/'
     location: Plymouth
-    date_start: '2016-05-31'
-    date_end: '2013-05-01'
+    date_end: '2016-05-31'
+    date_start: '2013-05-01'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Project Officer (Research Assistant)
     company: Nanyang Technological University
     company_url: 'https://www.ntu.edu.sg/Pages/home.aspx'
     location: Singapore
-    date_start: '2009-06-30'
-    date_end: '2006-05-01'
+    date_end: '2009-06-30'
+    date_start: '2006-05-01'
     # description: Taught electronic engineering and researched semiconductor physics.
 ---
