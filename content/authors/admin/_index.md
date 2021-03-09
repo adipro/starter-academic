@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Adi Kurniawan is a research fellow at the Oceans Graduate School, the University of Western Australia. His research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. He is part of the Wave Energy Research Centre, which conducts research in oceanography, hydrodynamics, and geotechnics.
+Adi Kurniawan is a research fellow at the Oceans Graduate School, the University of Western Australia. His research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. He is part of the Wave Energy Research Centre, which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
