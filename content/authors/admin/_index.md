@@ -14,7 +14,7 @@ organizations:
   url: https://www.uwa.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation.
+bio: Adi Kurniawan is a research fellow at the Oceans Graduate School, UWA. 
 
 # Interests to show in About widget
 interests:
