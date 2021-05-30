@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Modelling and optimisation of the M4 wave energy converter
+    tag: wave energy
   - name: Other
     tag: Demo
 
