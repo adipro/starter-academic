@@ -1,16 +1,16 @@
 ---
-title: Example Talk
+title: A Brief History of Wave Energy
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Great Southern Great Science Symposium 2020
+event_url: http://www.greatsouthernsciencecouncil.org.au/great-southern-great-science-symposium
 
-location: Wowchemy HQ
+location: Kalyenup Studio, Albany Entertainment Centre
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Albany
+  region: WA
+  postcode: '6330'
+  country: Australia
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
