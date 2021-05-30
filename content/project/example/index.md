@@ -1,6 +1,6 @@
 ---
 title: Modelling and optimisation of the M4 wave energy converter
-summary: An example of using the in-built project page.
+summary: The M4 is a multi-float wave energy converter.
 tags:
 - wave energy
 date: "2016-04-27T00:00:00Z"
