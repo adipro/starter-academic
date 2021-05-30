@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Modelling and optimisation of the M4 wave energy converter
+  - name: Wave Energy
     tag: wave energy
   - name: Other
     tag: Demo
