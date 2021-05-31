@@ -29,6 +29,12 @@ content:
     tag: '*'
   - name: Wave Energy
     tag: wave energy
+  - name: Wave Prediction
+    tag: wave prediction
+  - name: Parametric Resonance
+    tag: parametric resonance
+  - name: Wave Characterisation
+    tag: wave characterisation
   - name: Other
     tag: Demo
 
