@@ -1,19 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Power absorption measures and comparisons of selected wave energy converters
+title: Optimal Geometries for Wave Absorbers Oscillating About a Fixed Axis
 subtitle: ''
 summary: ''
 authors:
-- A. Babarit
-- J. Hals
-- A. Kurniawan
-- T. Moan
-- J. Krokstad
+- Adi Kurniawan
+- Torgeir Moan
 tags: []
 categories: []
-date: '2011-01-01'
-lastmod: 2021-05-31T17:46:43+08:00
+date: '2013-01-01'
+lastmod: 2021-05-31T17:46:28+08:00
 featured: false
 draft: false
 
@@ -31,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-31T09:46:42.136544Z'
+publishDate: '2021-05-31T09:46:26.943746Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 30th International Conference on Ocean, Offshore
-  and Arctic Engineering*'
+publication: '*IEEE Journal of Oceanic Engineering*'
+doi: 10.1109/JOE.2012.2208666
 ---

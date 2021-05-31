@@ -1,19 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Power absorption measures and comparisons of selected wave energy converters
+title: Wave energy devices with compressible volumes
 subtitle: ''
 summary: ''
 authors:
-- A. Babarit
-- J. Hals
-- A. Kurniawan
-- T. Moan
-- J. Krokstad
+- Adi Kurniawan
+- Deborah Greaves
+- John Chaplin
 tags: []
 categories: []
-date: '2011-01-01'
-lastmod: 2021-05-31T17:46:43+08:00
+date: '2014-01-01'
+lastmod: 2021-05-31T17:46:36+08:00
 featured: false
 draft: false
 
@@ -31,10 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-31T09:46:42.136544Z'
+publishDate: '2021-05-31T09:46:34.593915Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 30th International Conference on Ocean, Offshore
-  and Arctic Engineering*'
+publication: '*Proceedings of the Royal Society A: Mathematical, Physical and Engineering
+  Sciences*'
+doi: 10.1098/rspa.2014.0559
 ---

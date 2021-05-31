@@ -1,16 +1,35 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Fundamental formulae for wave-energy conversion
+title: OES Task 10 WEC heaving sphere performance modelling verification
 subtitle: ''
 summary: ''
 authors:
-- J. Falnes
+- K. Nielsen
+- F. Wendt
+- Y.-H. Yu
+- K. Ruehl
+- I. Touzon
+- B. W. Nam
+- J. S. Kim
+- K.-H. Kim
+- S. Crowley
+- W. Sheng
 - A. Kurniawan
+- D. Ogden
+- S. Girardin
+- A. Babarit
+- R. Costello
+- S. Giorgi
+- A. Roy
+- H. Bingham
+- R. Read
+- M. M. Kramer
+- S. Thomas
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2021-05-31T16:16:58+08:00
+date: '2018-01-01'
+lastmod: 2021-05-31T17:46:22+08:00
 featured: false
 draft: false
 
@@ -28,9 +47,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-31T08:16:57.406503Z'
+publishDate: '2021-05-31T09:46:21.595029Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*Royal Society open science*'
+publication: '*Advances in Renewable Energies Offshore: Proceedings of the 3rd International
+  Conference on Renewable Energies Offshore (RENEW 2018), October 8-10, 2018, Lisbon,
+  Portugal*'
 ---
