@@ -4,7 +4,8 @@
 title: "Wec Comparison"
 summary: ""
 authors: []
-tags: []
+tags: 
+- wave energy
 categories: []
 date: 2021-05-31T14:38:23+08:00
 

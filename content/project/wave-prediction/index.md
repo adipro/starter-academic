@@ -5,7 +5,7 @@ title: "Fast deterministic wave-by-wave prediction of real ocean waves"
 summary: ""
 authors: []
 tags: 
-- wave prediction
+- wave energy
 categories: []
 # date: 2021-05-31T14:36:29+08:00
 
