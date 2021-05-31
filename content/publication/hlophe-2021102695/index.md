@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: wave prediction
+projects: wave-prediction
 publishDate: '2021-05-31T09:46:36.044265Z'
 publication_types:
 - '2'
