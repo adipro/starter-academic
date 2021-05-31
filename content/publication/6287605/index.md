@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Torgeir Moan
-tags: []
+tags: wave energy
 categories: []
 date: '2013-01-01'
 lastmod: 2021-05-31T17:46:28+08:00
