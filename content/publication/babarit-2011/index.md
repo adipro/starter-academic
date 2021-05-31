@@ -10,7 +10,9 @@ authors:
 - A. Kurniawan
 - T. Moan
 - J. Krokstad
-tags: []
+tags: 
+- wave energy
+- comparison
 categories: []
 date: '2011-01-01'
 lastmod: 2021-05-31T17:46:43+08:00
