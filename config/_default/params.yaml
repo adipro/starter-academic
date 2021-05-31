@@ -142,7 +142,7 @@ search:
     show_logo: false
 map:
   provider: '1'
-  api_key: ''
+  api_key: 'AIzaSyAFa2LMftMrmmKfzHfDhQNnYnN7Ow60bsA'
   zoom: 15
 marketing:
   google_analytics: ''
