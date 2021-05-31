@@ -8,7 +8,9 @@ summary: ''
 authors:
 - Johannes Falnes
 - Adi Kurniawan
-tags: []
+tags: 
+- wave energy
+- books
 categories: []
 date: '2020-01-01'
 lastmod: 2021-05-31T17:46:38+08:00
