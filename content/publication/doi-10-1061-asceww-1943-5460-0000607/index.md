@@ -10,7 +10,10 @@ authors:
 - Scott Brown
 - David Forehand
 - Hugh Wolgamot
-tags: []
+tags: 
+- wave energy
+- numerical modelling
+- flexible device
 categories: []
 date: '2021-01-01'
 lastmod: 2021-05-31T17:46:34+08:00
