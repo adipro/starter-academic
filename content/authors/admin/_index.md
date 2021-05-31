@@ -6,7 +6,7 @@ title: Adi Kurniawan
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Research Fellow, Oceans Graduate School, UWA 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.uwa.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adi Kurniawan is a research fellow at the Oceans Graduate School, UWA. 
+bio: Adi Kurniawan's research covers aspects of wave-structure interactions, wave energy conversion, and multi-objective optimisation. 
 
 # Interests to show in About widget
 interests:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Adi Kurniawan is a research fellow at the Oceans Graduate School, the University of Western Australia. His research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. He is part of the Wave Energy Research Centre, which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
+Adi Kurniawan is a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/), [The University of Western Australia](https://www.uwa.edu.au/home). His research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. He is part of the UWA [Oceans Graduate School](https://www.uwa.edu.au/schools/oceans), which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
