@@ -6,7 +6,7 @@ title: Adi Kurniawan
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow, Oceans Graduate School, UWA 
+role: Research Fellow, Oceans Graduate School 
 
 # Organizations/Affiliations to show in About widget
 organizations:
