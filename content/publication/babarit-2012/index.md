@@ -11,7 +11,10 @@ authors:
 - A. Kurniawan
 - T. Moan
 - J. Krokstad
-tags: []
+tags: 
+- wave energy
+- comparison
+- numerical modelling
 categories: []
 date: '2012-01-01'
 lastmod: 2021-05-31T17:46:44+08:00
