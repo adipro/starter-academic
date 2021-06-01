@@ -4,7 +4,10 @@
 title: "Array Optimisation"
 summary: ""
 authors: []
-tags: []
+tags: 
+- arrays
+- wave energy
+- multiobjective optimisation 
 categories: []
 date: 2021-05-31T14:36:39+08:00
 
@@ -39,3 +42,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output as the objective. Attempts to include cost into the optimisation are usually made by forming a ratio between power and cost, and using this as the optimisation objective. 
