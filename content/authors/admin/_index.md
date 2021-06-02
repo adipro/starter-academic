@@ -70,8 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/), [The University of Western Australia](https://www.uwa.edu.au/home). My research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. I am part of the UWA [Oceans Graduate School](https://www.uwa.edu.au/schools/oceans), which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
+I am a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/), [The University of Western Australia](https://www.uwa.edu.au/home). My research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. 
 
 I obtained my PhD in Marine Technology from the Norwegian University of Science and Technology (NTNU) in 2013. Before joining UWA, I worked at Aalborg University, Denmark, and the University of Plymouth, UK. 
+
+I am part of the UWA [Oceans Graduate School](https://www.uwa.edu.au/schools/oceans), which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
