@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Torgeir Moan
-tags: wave energy
+tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2021-05-31T17:46:28+08:00
+lastmod: 2021-06-02T09:18:43+08:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-31T09:46:26.943746Z'
+publishDate: '2021-06-02T01:18:41.830300Z'
 publication_types:
 - '2'
 abstract: ''

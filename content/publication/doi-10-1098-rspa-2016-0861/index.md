@@ -10,14 +10,10 @@ authors:
 - M. R. Hann
 - D. M. Greaves
 - F. J. M. Farley
-tags: 
-- wave energy
-- numerical modelling
-- model testing
-- flexible device
+tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-05-31T17:46:31+08:00
+lastmod: 2021-06-02T09:18:48+08:00
 featured: false
 draft: false
 
@@ -35,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-31T09:46:30.651436Z'
+publishDate: '2021-06-02T01:18:46.773997Z'
 publication_types:
 - '2'
 abstract: ''

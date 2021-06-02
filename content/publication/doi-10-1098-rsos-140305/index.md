@@ -7,12 +7,10 @@ summary: ''
 authors:
 - Johannes Falnes
 - Adi Kurniawan
-tags: 
-- wave energy
-- fundamentals
+tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-05-31T17:46:40+08:00
+lastmod: 2021-06-02T09:19:01+08:00
 featured: false
 draft: false
 
@@ -30,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-31T09:46:39.665347Z'
+publishDate: '2021-06-02T01:18:59.667472Z'
 publication_types:
 - '2'
 abstract: ''

@@ -11,11 +11,10 @@ authors:
 - Paul H. Taylor
 - Jana Orszaghova
 - Scott Draper
-tags: 
-- wave prediction
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-05-31T17:46:37+08:00
+lastmod: 2021-06-02T09:18:55+08:00
 featured: false
 draft: false
 
@@ -32,8 +31,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: "wave-prediction" 
-publishDate: '2021-05-31T09:46:36.044265Z'
+projects: []
+publishDate: '2021-06-02T01:18:54.122523Z'
 publication_types:
 - '2'
 abstract: ''
