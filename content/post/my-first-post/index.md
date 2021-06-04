@@ -31,8 +31,8 @@ image:
 projects: []
 ---
 
-I stumbled across this website builder recently and thought it would be nice to start my own website using this template. I have so far been using weebly, which is quite good and easy to use, but the Academic template of Wowchemy offers more features which suit my needs better. 
+I stumbled across Wowchemy recently and thought it would be nice to start my own website using it. I have so far been using [weebly](https://wavepowerlab.weebly.com), which is quite good and easy to use, but Wowchemy offers more possibilities which suit my needs better. 
 
-There is much to learn for me still, as it is not a WYSIWYG type of website builder, but I am excited with the features it offers. 
+There is much to learn for me still, as it is not a WYSIWYG type of website builder, but I am excited with the ~~quirks~~ features it offers. 
 
 I will continue to add more stuff whenever possible, so stay tuned!

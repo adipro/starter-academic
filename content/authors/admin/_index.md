@@ -70,10 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/), [The University of Western Australia](https://www.uwa.edu.au/home). My research interests include ocean wave energy, wave-structure interactions, and multi-objective optimisation. 
+I am a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/), [The University of Western Australia](https://www.uwa.edu.au/home). I am part of the UWA [Oceans Graduate School](https://www.uwa.edu.au/schools/oceans), which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
 
-I obtained my PhD in Marine Technology from the Norwegian University of Science and Technology (NTNU) in 2013. Before joining UWA, I worked at Aalborg University, Denmark, and the University of Plymouth, UK. 
+I obtained my PhD in Marine Technology from the Norwegian University of Science and Technology (NTNU). Before joining UWA, I worked at Aalborg University, Denmark, and the University of Plymouth, UK. 
 
-I am part of the UWA [Oceans Graduate School](https://www.uwa.edu.au/schools/oceans), which conducts multidisciplinary research in oceanography, hydrodynamics, and geotechnics.
+My research covers aspects of wave energy conversion, wave-structure interactions, and multi-objective optimisation. I have numerically modelled a number of different wave energy converters and I am deeply interested in how geometry and motion influence wave absorption. I am the co-author of [_Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction (2nd edition)_](https://doi.org/10.1017/9781108674812) with Professor Johannes Falnes (NTNU).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
