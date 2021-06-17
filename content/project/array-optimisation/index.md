@@ -43,4 +43,5 @@ url_video: ""
 slides: ""
 ---
 
-Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output as the objective. Attempts to include cost into the optimisation are usually made by forming a ratio between power and cost, and using this as the optimisation objective. 
+Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output as the optimisation objective. Attempts to include cost into the optimisation are usually made by using the ratio between power and cost as the objective. 
+Here we consider this problem from a multiobjective perspective. Instead of a single solution, multiple solutions are sought, which provide an insight into which array configurations are favoured for each of the different objectives. 
