@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 ---
 
-Parametric resonance is a nonlinear phenomenon in which an oscillating system oscillates with a frequency different from the frequency of the excitation force. 
-Parametric resonance can happen to a wave energy converter, and when this happens, its performance is usually affected in a negative way. 
+Parametric resonance is a nonlinear phenomenon in which an oscillating system oscillates with a frequency different from the frequency of the excitation. 
+Parametric resonance can happen to some wave energy converters, and when it happens, their performance is usually degraded. 
 
-In this project, we look into simplified models to simulate this nonlinear response in the time domain.
+In this project, we develop fast, simplified models to capture this nonlinear response in the time domain.
