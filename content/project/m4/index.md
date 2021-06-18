@@ -1,6 +1,6 @@
 ---
 title: Modelling and optimisation of the M4 wave energy converter
-summary: The M4 is a multi-float wave energy converter developed by Professor Peter Stansby from the University of Manchester. This project looks into developing a numerical tool to optimise the design of the device. The tool couples a dynamic model of the device, programmed in MATLAB, and a boundary element software.  
+summary: The M4 is a multi-float wave energy converter developed by Professor Peter Stansby from the University of Manchester. This project seeks to develop a numerical tool to optimise the design of the device. The tool couples a dynamic model of the device and a boundary element software.  
 tags:
 - wave energy
 # date: "2016-04-27T00:00:00Z"
