@@ -30,6 +30,6 @@ image:
 slides: example
 ---
 
-The M4 is a wave energy converter composed of multiple floats connected by beams. It converts power from the waves through relative rotation about a hinge.
+The M4 is a wave energy converter composed of multiple floats connected by beams. It harnesses the power of the waves through relative rotation about a hinge.
 
-In this project, we develop a numerical tool to optimise the design of the device. The tool couples a mathematical model, which computes the response of the device including its power output, and a boundary element software, which computes the hydrodynamic forces on the device. We use a generalised-mode approach to derive the (linear) equations of motion of the device.
+In this project, our Master's student Nicholas McGrath develops a numerical tool to optimise the design of the device. The tool couples a mathematical model, which computes the response of the device including its power output, and a boundary element software, which computes the hydrodynamic forces on the device. We use a generalised-mode approach to derive the (linear) equations of motion of the device.
