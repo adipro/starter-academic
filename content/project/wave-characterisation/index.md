@@ -4,7 +4,10 @@
 title: "Wave Characterisation"
 summary: ""
 authors: []
-tags: []
+tags: 
+- wave climate
+- Albany
+- wave buoy
 categories: []
 date: 2021-05-31T14:37:31+08:00
 
@@ -39,3 +42,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Albany
