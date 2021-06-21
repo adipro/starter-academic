@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Compressible wave energy converters"
-summary: ""
+summary: "Compressible or variable-volume wave energy converters are a type of wave energy converters that expands and contracts under the action of the waves."
 authors: []
 tags: 
 - wave energy
@@ -43,4 +43,5 @@ slides: ""
 ---
 
 Compressible or variable-volume wave energy converters are a type of wave energy converters that expands and contracts under the action of the waves. 
+In terms of their interactions with the waves, these wave energy converters require 
 
