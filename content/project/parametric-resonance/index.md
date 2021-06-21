@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Modelling and simulation of parametric resonance in wave energy converters using a simplified model"
-summary: "Parametric resonance is a nonlinear phenomenon in which an oscillating system oscillates with a frequency different from the frequency of the excitation force. In this project, we look into simplified models to simulate this nonlinear response in the time domain."
+summary: "Parametric resonance is a nonlinear phenomenon in which an oscillating system oscillates with a frequency different from the excitation frequency. In this project, we look into simplified models to capture this nonlinear response in the time domain."
 authors: []
 tags: 
 - wave energy
@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 ---
 
-Parametric resonance is a nonlinear phenomenon in which an oscillating system oscillates with a frequency different from the frequency of the excitation. 
-Parametric resonance can happen to some wave energy converters, and when it happens, their performance is usually degraded. 
+Parametric resonance is a nonlinear phenomenon in which an oscillating system oscillates with a frequency different from the excitation frequency. 
+Some wave energy converters are prone to parametric resonance, which can degrade their performance. 
 
-In this project, we develop fast, simplified models to capture this nonlinear response in the time domain.
+The aim of this project is to develop fast, simplified models to capture this nonlinear response in the time domain.
