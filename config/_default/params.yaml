@@ -8,7 +8,7 @@
 theme: Ocean
 day_night: true
 font: ''
-font_size: m
+font_size: l
 
 # SEO
 
@@ -117,6 +117,7 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+  font_size: m
 breadcrumb:
   page_types:
     book: true
