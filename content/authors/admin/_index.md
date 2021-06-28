@@ -14,7 +14,7 @@ organizations:
   url: https://www.uwa.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adi's research covers aspects of wave-structure interactions, wave energy conversion, and multi-objective optimisation. 
+bio: My research covers aspects of wave-structure interactions, wave energy conversion, and multi-objective optimisation. 
 
 # Interests to show in About widget
 interests:
