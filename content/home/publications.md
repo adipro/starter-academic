@@ -13,7 +13,6 @@ title: Recent Publications
 subtitle: ''
 
 content:
-  font_size: m
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
