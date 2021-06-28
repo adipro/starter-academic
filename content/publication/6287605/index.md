@@ -7,7 +7,11 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Torgeir Moan
-tags: []
+tags: 
+- optimisation
+- multiobjective optimisation 
+- wave energy
+- oscillating bodies
 categories: []
 date: '2013-01-01'
 lastmod: 2021-06-02T09:18:43+08:00
