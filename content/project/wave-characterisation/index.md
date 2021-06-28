@@ -1,11 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Wave Characterisation"
+title: "Characterisation of wave energy resource in Albany, Western Australia"
 summary: ""
 authors: []
 tags: 
 - wave climate
+- wave energy
 - Albany
 - wave buoy
 categories: []
@@ -43,4 +44,4 @@ url_video: ""
 slides: ""
 ---
 
-Albany
+Albany, Western Australia. 

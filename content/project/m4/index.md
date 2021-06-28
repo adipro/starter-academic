@@ -3,6 +3,7 @@ title: Modelling and optimisation of the M4 wave energy converter
 summary: The M4 is a multi-float wave energy converter developed by Professor Peter Stansby from the University of Manchester. This project seeks to develop a numerical tool to optimise the design of the device. The tool couples a dynamic model of the device and a boundary element software.  
 tags:
 - wave energy
+- optimisation
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,6 +31,5 @@ image:
 slides: example
 ---
 
-The M4 is a wave energy converter composed of multiple floats connected by beams. It harnesses the power of the waves through relative rotation about a hinge.
-
-In this project, our Master's student Nicholas McGrath develops a numerical tool to optimise the design of the device. The tool couples a mathematical model, which computes the response of the device including its power output, and a boundary element software, which computes the hydrodynamic forces on the device. We use a generalised-mode approach to derive the (linear) equations of motion of the device.
+The M4 is a multi-float wave energy converter developed by Professor Peter Stansby from the University of Manchester. In this project, our Master's student Nicholas McGrath is developing a numerical tool to optimise the design of the device. The tool couples a dynamic model of the device and a boundary element software. A generalised-mode approach is used to derive the equations of motion of the device.
+This project is co-supervised by Dr. Hugh Wolgamot and Dr. Jana Orszaghova. 

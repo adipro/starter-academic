@@ -2,10 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fast deterministic wave-by-wave prediction of real ocean waves"
-summary: ""
+summary: "This project aims to develop fast wave-by-wave prediction tools to accurately predict weakly nonlinear waves in unidirectional and multidirectional seas. Applications range from wave energy control to offshore operations to recreational activities."
 authors: []
 tags: 
 - wave prediction
+- wave energy
 categories: []
 # date: 2021-05-31T14:36:29+08:00
 
@@ -41,6 +42,6 @@ url_video: ""
 slides: ""
 ---
 
-It is well-known that the power production of a wave energy converter can be significantly increased if we know in advance what the incoming waves will look like some wave periods into the future. 
-
-In this project, our PhD student Thobani Hlophe is developing fast prediction tools to accurately predict weakly nonlinear waves in unidirectional and multidirectional seas. The method involves simple extension of the wave record based on the properties of the latest values in the record and the statistics of the sea state, and combining this with approximate second-order corrections to the surface elevation. Propagation in space and time is then possible using FFT, ensuring its computational efficiency.
+It is well-known that the power production of a wave energy converter can be significantly increased if we can tune it to respond optimally to each incoming wave. This is possible if we know in advance what the incoming waves will look like some wave periods into the future. 
+In this project, our PhD student Thobani Hlophe is developing fast prediction tools to accurately predict weakly nonlinear waves in unidirectional and multidirectional seas. The method involves simple extension of the wave record based on the properties of the latest values in the record and the statistics of the sea state, and combining this with approximate second-order corrections to the surface elevation. Propagation in space and time is then possible using Fast Fourier Transform, ensuring its computational efficiency.
+This project is co-supervised by Dr. Hugh Wolgamot, Prof. Paul H. Taylor, Dr. Jana Orszaghova, and A/Prof. Scott Draper. 

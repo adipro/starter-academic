@@ -74,6 +74,6 @@ I am a research fellow with the [Wave Energy Research Centre](https://marinerese
 
 I obtained my PhD in Marine Technology from the Norwegian University of Science and Technology (NTNU). Before joining UWA, I worked at Aalborg University, Denmark, and the University of Plymouth, UK. 
 
-My research covers aspects of wave energy conversion, wave-structure interactions, and multi-objective optimisation. I have numerically modelled a number of different wave energy converters and I am deeply interested in how geometry and motion influence wave absorption. I am the co-author of [_Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction (2nd edition)_](https://doi.org/10.1017/9781108674812) with Professor Johannes Falnes (NTNU).
+My research covers aspects of wave energy conversion, wave-structure interactions, and multi-objective optimisation. I have numerically modelled a number of different wave energy converters, including oscillating bodies and oscillating water columns. I am deeply interested in how geometry and motion influence wave absorption and loads. I am the co-author of [_Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction (2nd edition)_](https://doi.org/10.1017/9781108674812) with Professor Johannes Falnes (NTNU).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
