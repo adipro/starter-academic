@@ -2,10 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Characterisation of wave energy resource in Albany, Western Australia"
-summary: ""
+summary: "This project seeks to characterise the wave energy resource of Albany, Western Australia, as a potential location for wave energy utilisation. "
 authors: []
 tags: 
 - wave climate
+- resource
 - wave energy
 - Albany
 - wave buoy
@@ -44,4 +45,6 @@ url_video: ""
 slides: ""
 ---
 
-Albany, Western Australia. 
+Compared to the Northern hemisphere, wave climates of the Southern hemisphere are more consistent, with less seasonal variation. 
+Low variability is advantageous for wave energy conversion because cost is driven by extreme-to-mean ratios. 
+This project seeks to characterise the wave energy resource of Albany, Western Australia, as a potential location for wave energy utilisation. 
