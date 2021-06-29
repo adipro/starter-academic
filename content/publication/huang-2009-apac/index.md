@@ -1,35 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: OES Task 10 WEC heaving sphere performance modelling verification
+title: 'RESPONSES OF A FLOATING RECTANGULAR CAISSON TO REGULAR WAVES: A COMPARISON
+  OF MEASUREMENTS WITH TIME-DOMAIN AND FREQUENCY-DOMAIN SIMULATIONS'
 subtitle: ''
 summary: ''
 authors:
-- K. Nielsen
-- F. Wendt
-- Y.-H. Yu
-- K. Ruehl
-- I. Touzon
-- B. W. Nam
-- J. S. Kim
-- K.-H. Kim
-- S. Crowley
-- W. Sheng
-- A. Kurniawan
-- D. Ogden
-- S. Girardin
-- A. Babarit
-- R. Costello
-- S. Giorgi
-- A. Roy
-- H. Bingham
-- R. Read
-- M. M. Kramer
-- S. Thomas
+- ZHENHUA HUANG
+- CHUNRONG LIU
+- ADI KURNIAWAN
+- SOON KEAT TAN
+- EDWIN NAH
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-06-02T09:18:36+08:00
+date: '2009-01-01'
+lastmod: 2021-06-29T09:57:18+08:00
 featured: false
 draft: false
 
@@ -47,11 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:24.555597Z'
+publishDate: '2021-06-29T02:03:18.375139Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Advances in Renewable Energies Offshore: Proceedings of the 3rd International
-  Conference on Renewable Energies Offshore (RENEW 2018), October 8-10, 2018, Lisbon,
-  Portugal*'
+publication: '*Asian and Pacific Coasts 2009*'
+doi: 10.1142/9789814287951_0163
 ---

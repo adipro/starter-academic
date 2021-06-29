@@ -1,51 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: International Energy Agency Ocean Energy Systems Task 10 Wave Energy Converter
-  Modeling Verification and Validation
+title: Numerical benchmarking study of a selection of wave energy converters
 subtitle: ''
 summary: ''
 authors:
-- F. Wendt
-- Y.-H. Yu
-- K. Nielsen
-- K. Ruehl
-- T. Bunnik
-- I. Touzon
-- B. W. Nam
-- J. S. Kim
-- K.-H. Kim
-- C. E. Janson
-- K.-R. Jakobsen
-- S. Crowley
-- L. Vega
-- K. Rajagopalan
-- T. Mathai
-- D. Greaves
-- E. Ransley
-- P. Lamont-Kane
-- W. Sheng
-- R. Costello
-- B. Kennedy
-- S. Thomas
-- P. Heras
-- H. Bingham
-- A. Kurniawan
-- M. M. Kramer
-- D. Ogden
-- S. Girardin
 - A. Babarit
-- P.-Y. Wuillaume
-- D. Steinke
-- A. Roy
-- S. Beatty
-- P. Schofield
-- J. Jansson
-- J. Hoffman
+- J. Hals
+- M. J. Muliawan
+- A. Kurniawan
+- T. Moan
+- J. Krokstad
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2021-06-02T09:18:34+08:00
+date: '2012-01-01'
+lastmod: 2021-06-29T10:02:56+08:00
 featured: false
 draft: false
 
@@ -63,9 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:24.085738Z'
+publishDate: '2021-06-29T02:03:32.658401Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*12th European Wave and Tidal Energy Conference*'
+publication: '*Renewable Energy*'
+doi: 10.1016/j.renene.2011.10.002
 ---
