@@ -8,7 +8,9 @@ authors:
 - Adi Kurniawan
 - Jo̸rgen Hals
 - Torgeir Moan
-tags: []
+tags: 
+- oscillating water columns
+- modelling
 categories: []
 date: '2011-06-01'
 lastmod: 2021-06-29T09:57:18+08:00

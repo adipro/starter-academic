@@ -10,7 +10,8 @@ authors:
 - Adi Kurniawan
 - JR Chaplin
 - FJM Farley
-tags: []
+tags: 
+- compressible
 categories: []
 date: '2016-01-01'
 lastmod: 2021-06-29T09:57:22+08:00

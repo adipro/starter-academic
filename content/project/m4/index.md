@@ -4,6 +4,7 @@ summary: The M4 is a multi-float wave energy converter developed by Professor Pe
 tags:
 - wave energy
 - optimisation
+- modelling
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

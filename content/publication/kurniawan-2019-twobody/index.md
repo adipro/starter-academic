@@ -9,7 +9,7 @@ authors:
 - Adi Kurniawan
 - Matthias Grassow
 - Francesco Ferri
-tags: []
+tags: [modelling, parametric resonance, model tests]
 categories: []
 date: '2019-01-01'
 lastmod: 2021-06-29T10:02:54+08:00

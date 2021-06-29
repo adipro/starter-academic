@@ -7,7 +7,8 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Torgeir Moan
-tags: []
+tags: 
+- multiobjective optimisation
 categories: []
 date: '2013-01-01'
 lastmod: 2021-06-29T10:02:50+08:00

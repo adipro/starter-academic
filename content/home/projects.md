@@ -31,6 +31,10 @@ content:
     tag: wave energy
   - name: Optimisation
     tag: optimisation
+  - name: Modelling
+    tag: modelling
+  - name: Wave Prediction
+    tag: wave prediction
   - name: Other
     tag: Demo
 
