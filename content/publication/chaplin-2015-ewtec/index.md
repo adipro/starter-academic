@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical and experimental investigation of wave energy devices with inflated
-  bags
+title: Numerical and experimental investigation of wave energy devices with inflated bags
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +11,7 @@ authors:
 - Martyn Hann
 - Adi Kurniawan
 - Malcolm Cox
-tags: []
+tags: [compressible, modelling, model tests]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T09:57:21+08:00

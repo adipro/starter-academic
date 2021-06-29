@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Adi Kurniawan
 - D. M. Greaves
-tags: [compressible]
+tags: [compressible, flexible]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T09:57:21+08:00

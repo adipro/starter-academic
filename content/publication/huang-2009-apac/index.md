@@ -1,17 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'RESPONSES OF A FLOATING RECTANGULAR CAISSON TO REGULAR WAVES: A COMPARISON
-  OF MEASUREMENTS WITH TIME-DOMAIN AND FREQUENCY-DOMAIN SIMULATIONS'
+title: 'Responses of a Floating Rectangular Caisson to Regular Waves: A Comparison of Measurements with Time-Domain and Frequency-Domain Simulations'
 subtitle: ''
 summary: ''
 authors:
-- ZHENHUA HUANG
-- CHUNRONG LIU
-- ADI KURNIAWAN
-- SOON KEAT TAN
-- EDWIN NAH
-tags: []
+- Zhenhua Huang
+- Chunrong Liu
+- Adi Kurniawan
+- Soon Keat Tan
+- Edwin Nah
+tags: [modelling, model tests]
 categories: []
 date: '2009-01-01'
 lastmod: 2021-06-29T09:57:18+08:00

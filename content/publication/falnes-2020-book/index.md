@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy
-  Extraction'
+title: 'Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction'
 subtitle: ''
 summary: ''
 authors:
 - Johannes Falnes
 - Adi Kurniawan
-tags: []
+tags: [wave energy, book]
 categories: []
 date: '2020-01-01'
 lastmod: 2021-06-29T10:02:53+08:00

@@ -11,8 +11,7 @@ authors:
 - Paul H. Taylor
 - Jana Orszaghova
 - Scott Draper
-tags: 
-- wave prediction
+tags: [wave prediction]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T10:02:53+08:00

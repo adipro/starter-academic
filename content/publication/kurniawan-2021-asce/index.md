@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Wave-Structure Interactions of Flexible Bags with Elastic Tendons: Application
-  to Wave Energy Conversion'
+title: 'Wave-Structure Interactions of Flexible Bags with Elastic Tendons: Application to Wave Energy Conversion'
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +9,7 @@ authors:
 - Scott Brown
 - David Forehand
 - Hugh Wolgamot
-tags: []
+tags: [flexible, compressible]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T10:02:52+08:00

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Adi Kurniawan
-- Jo̸rgen Hals
+- Jørgen Hals
 - Torgeir Moan
 tags: 
 - oscillating water columns

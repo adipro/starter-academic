@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Johannes Falnes
 - Adi Kurniawan
-tags: []
+tags: [wave energy, theory]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T10:02:54+08:00
