@@ -30,9 +30,7 @@ content:
   - name: Wave Energy
     tag: wave energy
   - name: Optimisation
-    tag: 
-    - optimisation
-    - multiobjective optimisation
+    tag: optimisation
   - name: Other
     tag: Demo
 
