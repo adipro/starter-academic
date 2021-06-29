@@ -10,7 +10,7 @@ tags:
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
@@ -28,7 +28,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The M4 is a multi-float wave energy converter developed by Professor Peter Stansby from the University of Manchester. In this project, our Master's student Nicholas McGrath is developing a numerical tool to optimise the design of the device. The tool couples a dynamic model of the device and a boundary element software. A generalised-mode approach is used to derive the equations of motion of the device.
