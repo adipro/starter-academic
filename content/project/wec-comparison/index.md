@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Comparison of wave energy converters"
-summary: "Although many fundamental results concerning wave power absorption have been discovered about four decades ago, the most economic way of harnessing wave energy remains an open question. While there have been numerous separate studies of specific wave energy converters, comparative studies are rare, and thus little is known about how these devices measure against each other. This ongoing project looks at new non-dimensional metrics to assess the relative cost-effectiveness of different wave energy converters."
+summary: "Although many fundamental results concerning wave power absorption have been discovered about four decades ago, the most economic way of harnessing wave energy remains an open question. While there have been numerous separate studies of specific wave energy converters, comparative studies are rare, and little is known about how these devices measure against each other. This ongoing project looks at new non-dimensional metrics to assess the relative cost-effectiveness of different wave energy converters."
 authors: []
 tags: 
 - wave energy
