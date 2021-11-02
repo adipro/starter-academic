@@ -70,13 +70,13 @@ email: ""
 highlight_name: true
 ---
 
-Adi is a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/) (WERC), [The University of Western Australia](https://www.uwa.edu.au/home) (UWA). His research covers aspects of wave energy conversion, wave-structure interactions, and multi-objective optimisation. He has numerically modelled a variety of wave energy converters (WECs)and is deeply interested in how geometry and motion influence wave absorption and loads. 
+Adi is a research fellow with the [Wave Energy Research Centre](https://marineresearch-gs.com/wave-energy-research-centre/) (WERC), [The University of Western Australia](https://www.uwa.edu.au/home) (UWA). His research covers aspects of wave energy conversion, wave-structure interactions, and multi-objective optimisation. He has numerically modelled a variety of wave energy converters (WECs)and is deeply interested in how geometry and motion influence wave absorption and loads.
 
-Adi obtained my PhD in Marine Technology from the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/). During his PhD, he participated in the [_NumWEC project: Numerical estimation of energy delivery from a selection of wave energy converters_](https://doi.org/10.1016/j.renene.2011.10.002), which compared the performance of several WECs with different principles of operation, based on numerical modelling. 
-Before joining UWA, Adi worked at [Aalborg University](https://www.en.aau.dk/), Denmark, and [the University of Plymouth](https://www.plymouth.ac.uk/), UK. 
+Adi obtained my PhD in Marine Technology from the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/). During his PhD, he participated in the [_NumWEC project: Numerical estimation of energy delivery from a selection of wave energy converters_](https://doi.org/10.1016/j.renene.2011.10.002), which compared the performance of several WECs with different principles of operation, based on numerical modelling.
+Before joining UWA, Adi worked at [Aalborg University](https://www.en.aau.dk/), Denmark, and [the University of Plymouth](https://www.plymouth.ac.uk/), UK.
 His research into flexible deformable WECs, initiated while he was with the University of Plymouth, was among the first of its kind. There is a continued interest in this idea, given the potential benefits of using flexible materials over rigid ones.
 
-Adi is the co-author of [_Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction (2nd edition)_](https://doi.org/10.1017/9781108674812) with Professor Johannes Falnes (NTNU). 
+Adi is the co-author of [_Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction (2nd edition)_](https://doi.org/10.1017/9781108674812) with Professor Johannes Falnes (NTNU).
 Since 2020, Adi has been a member of the Standards Australia Committee EL-066 on Marine energy - Wave, tidal and other water current converters.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
