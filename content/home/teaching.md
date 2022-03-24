@@ -28,11 +28,7 @@ experience:
     location: ''
     date_start: '2020'
     date_end: ''
-    # description: |2-
-    #     Responsibilities include:
-        
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+    description: |2-
+        Shared responsibility for the wave energy content of the unit.
         
 ---
