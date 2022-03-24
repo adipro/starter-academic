@@ -4,7 +4,7 @@ title: A Brief History of Wave Energy
 event: Great Southern Great Science Symposium 2020
 event_url: http://www.greatsouthernsciencecouncil.org.au/great-southern-great-science-symposium
 
-location: Kalyenup Studio, Albany Entertainment Centre
+location: Albany Entertainment Centre
 address:
   street: 
   city: Albany
