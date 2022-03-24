@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: The University of Western Australia
     company_url: 'https://www.uwa.edu.au/home'
-    location: 'Albany'
+    location: 'Albany, Australia'
     date_start: '2019-09-12'
     date_end: ''
     # description: |2-
@@ -38,7 +38,7 @@ experience:
   - title: Assistant Professor
     company: Aalborg University 
     company_url: 'https://www.en.aau.dk/'
-    location: Aalborg
+    location: Aalborg, Denmark
     date_start: '2016-06-01'
     date_end: '2019-08-31'
     # description: Taught electronic engineering and researched semiconductor physics.
@@ -46,7 +46,7 @@ experience:
   - title: Research Fellow
     company: University of Plymouth
     company_url: 'https://www.plymouth.ac.uk/'
-    location: Plymouth
+    location: Plymouth, United Kingdom
     date_end: '2016-05-31'
     date_start: '2013-05-01'
     # description: Taught electronic engineering and researched semiconductor physics.
