@@ -4,9 +4,7 @@
 title: "Fast deterministic wave-by-wave prediction of real ocean waves"
 summary: "It is well-known that the power production of a wave energy converter can be significantly increased if we can tune it to respond optimally to each incoming wave. This project aims to develop fast wave-by-wave prediction tools to accurately predict weakly nonlinear waves in unidirectional and multidirectional seas. Applications range from wave energy control to offshore operations to recreational activities."
 authors: []
-tags: 
-- wave prediction
-- wave energy
+tags: [wave prediction, wave energy]
 categories: []
 # date: 2021-05-31T14:36:29+08:00
 

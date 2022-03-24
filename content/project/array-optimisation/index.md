@@ -4,11 +4,7 @@
 title: "Optimisation of arrays of wave energy converters"
 summary: "Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output or minimising the power-to-cost ratio as the sole objective. This project considers this problem from a multiobjective perspective. Instead of a single objective, multiple objectives are considered, leading to multiple optimum solutions, which provide an insight into which array configurations are preferred for each of the competing objectives."
 authors: []
-tags: 
-- arrays
-- wave energy
-- optimisation
-- multiobjective optimisation 
+tags: [arrays, wave energy, optimisation]
 categories: []
 date: 2021-05-31T14:36:39+08:00
 

@@ -4,12 +4,7 @@
 title: "Characterisation of wave energy resource in Albany, Western Australia"
 summary: "Compared to the Northern hemisphere, wave climates of the Southern hemisphere are characterised by their higher consistency and lower seasonal variability. Low variability is advantageous for wave energy conversion because cost is correlated with extreme-to-mean ratios. This project seeks to characterise the wave energy resource of Albany, Western Australia, as a potential location for wave energy utilisation."
 authors: []
-tags: 
-- wave climate
-- resource
-- wave energy
-- Albany
-- wave buoy
+tags: [wave climate, resource, wave energy, Albany, wave buoy]
 categories: []
 date: 2021-05-31T14:37:31+08:00
 

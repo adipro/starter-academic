@@ -4,10 +4,7 @@
 title: "Compressible wave energy converters"
 summary: "Compressible or variable-volume wave energy converters are a type of wave energy converters that expands and contracts under the action of the waves. Owing to their unconventional modes of motion, such devices can have superior properties than rigid devices. "
 authors: []
-tags: 
-- wave energy
-- compressible
-- modelling
+tags: [wave energy, compressible, modelling]
 categories: []
 date: 2021-05-31T14:36:50+08:00
 

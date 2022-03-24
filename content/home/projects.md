@@ -35,8 +35,6 @@ content:
     tag: modelling
   - name: Wave Prediction
     tag: wave prediction
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
