@@ -11,7 +11,7 @@ authors:
 - Martyn Hann
 - Adi Kurniawan
 - Malcolm Cox
-tags: [compressible, modelling, model tests]
+tags: [compressible, modelling, model tests, wave energy]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T09:57:21+08:00
@@ -36,5 +36,5 @@ publishDate: '2021-06-29T02:03:21.705906Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*11th European Wave and Tidal Energy Conference Proceedings*'
+publication: '*Proceedings of the 11th European Wave and Tidal Energy Conference*'
 ---

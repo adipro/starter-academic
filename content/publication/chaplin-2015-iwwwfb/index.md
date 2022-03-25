@@ -35,6 +35,6 @@ publishDate: '2021-06-29T02:03:20.743754Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of 30th International Workshop on Water Waves and Floating
+publication: '*Proceedings of the 30th International Workshop on Water Waves and Floating
   Bodies*'
 ---

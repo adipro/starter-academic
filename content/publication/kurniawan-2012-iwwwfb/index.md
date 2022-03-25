@@ -7,8 +7,7 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Torgeir Moan
-tags: 
-- multiobjective optimisation
+tags: [multiobjective optimisation] 
 categories: []
 date: '2012-01-01'
 lastmod: 2021-06-29T09:57:19+08:00
@@ -33,5 +32,5 @@ publishDate: '2021-06-29T02:03:19.330890Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*27th International Workshop on Water Waves and Floating Bodies*'
+publication: '*Proceedings of the 27th International Workshop on Water Waves and Floating Bodies*'
 ---

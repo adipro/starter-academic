@@ -9,7 +9,7 @@ authors:
 - Scott Brown
 - David Forehand
 - Hugh Wolgamot
-tags: [flexible, compressible]
+tags: [flexible, compressible, wave energy]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T10:02:52+08:00

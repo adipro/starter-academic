@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction'
-subtitle: ''
+subtitle: 'Second Edition'
 summary: ''
 authors:
 - Johannes Falnes
@@ -20,6 +20,7 @@ draft: false
 image:
   caption: ''
   focal_point: Right
+  image_size: contain
   preview_only: false
 
 # Projects (optional).

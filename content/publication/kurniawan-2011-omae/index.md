@@ -8,9 +8,7 @@ authors:
 - Adi Kurniawan
 - Jørgen Hals
 - Torgeir Moan
-tags: 
-- oscillating water columns
-- modelling
+tags: [oscillating water columns, modelling]
 categories: []
 date: '2011-06-01'
 lastmod: 2021-06-29T09:57:18+08:00
@@ -35,6 +33,6 @@ publishDate: '2021-06-29T02:03:18.859208Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*International Conference on Offshore Mechanics and Arctic Engineering*'
 doi: 10.1115/OMAE2011-49263
 ---

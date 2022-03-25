@@ -9,8 +9,7 @@ authors:
 - Adi Kurniawan
 - Eilif Pedersen
 - Torgeir Moan
-tags: 
-- modelling
+tags: [modelling]
 categories: []
 date: '2012-01-01'
 lastmod: 2021-06-29T10:02:49+08:00

@@ -32,5 +32,5 @@ publishDate: '2021-06-29T02:03:21.230457Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2nd Offshore Energy Storage Symposium*'
+publication: '*Proceedings of the 2nd Offshore Energy Storage Symposium*'
 ---

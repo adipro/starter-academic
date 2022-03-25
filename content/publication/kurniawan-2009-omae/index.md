@@ -38,6 +38,6 @@ publishDate: '2021-06-29T02:03:17.421561Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*International Conference on Offshore Mechanics and Arctic Engineering*'
 doi: 10.1115/OMAE2009-79163
 ---

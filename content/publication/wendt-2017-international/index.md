@@ -42,7 +42,7 @@ authors:
 - P. Schofield
 - J. Jansson
 - J. Hoffman
-tags: [modelling]
+tags: [modelling, wave energy]
 categories: []
 date: '2017-01-01'
 lastmod: 2021-06-02T09:18:34+08:00
@@ -67,5 +67,5 @@ publishDate: '2021-06-29T02:03:24.085738Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*12th European Wave and Tidal Energy Conference*'
+publication: '*Proceedings of the 12th European Wave and Tidal Energy Conference*'
 ---

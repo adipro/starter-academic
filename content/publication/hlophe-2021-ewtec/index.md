@@ -1,20 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical benchmarking study of a selection of wave energy converters
+title: 'Fast unidirectional wave-by-wave prediction of weakly nonlinear wave fields:
+  Validation using physical measurements'
 subtitle: ''
 summary: ''
 authors:
-- A. Babarit
-- J. Hals
-- M. J. Muliawan
-- A. Kurniawan
-- T. Moan
-- J. Krokstad
-tags: [modelling, comparison, wave energy]
+- Thobani Hlophe
+- Hugh Wolgamot
+- Adi Kurniawan
+- Paul H. Taylor
+- Jana Orszaghova
+- Scott Draper
+tags: [wave prediction, wave buoys]
 categories: []
-date: '2012-01-01'
-lastmod: 2021-06-29T10:02:56+08:00
+date: '2021-01-01'
+lastmod: 2022-03-25T11:21:02+08:00
 featured: false
 draft: false
 
@@ -32,10 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:32.658401Z'
+publishDate: '2022-03-25T03:21:00.708722Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*Renewable Energy*'
-doi: 10.1016/j.renene.2011.10.002
+publication: '*Proceedings of the 14th European Wave and Tidal Energy Conference*'
 ---

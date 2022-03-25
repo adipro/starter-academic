@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Xiantao Zhang
-tags: [modelling, negative stiffness]
+tags: [modelling, negative stiffness, wave energy]
 categories: []
 date: '2018-01-01'
 lastmod: 2021-06-29T09:57:23+08:00
