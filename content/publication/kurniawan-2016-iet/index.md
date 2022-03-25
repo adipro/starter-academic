@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Deborah Greaves
-tags: [compressible, flexible, modelling]
+tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-06-29T10:02:50+08:00
+lastmod: 2022-03-25T12:49:40+08:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:13.057646Z'
+publishDate: '2022-03-25T04:49:39.400567Z'
 publication_types:
 - '2'
 abstract: ''

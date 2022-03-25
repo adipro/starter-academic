@@ -3,15 +3,15 @@
 
 title: 'Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy
   Extraction'
-subtitle: Second Edition
+subtitle: ''
 summary: ''
 authors:
 - Johannes Falnes
 - Adi Kurniawan
-tags: [wave energy, book]
+tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-06-29T10:02:53+08:00
+lastmod: 2022-03-25T12:50:01+08:00
 featured: false
 draft: false
 
@@ -20,8 +20,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: Right
-  image_size: contain
+  focal_point: ''
   preview_only: false
 
 # Projects (optional).
@@ -30,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:32.167064Z'
+publishDate: '2022-03-25T04:49:58.470610Z'
 publication_types:
 - '5'
 abstract: ''

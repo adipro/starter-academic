@@ -12,10 +12,10 @@ authors:
 - Claes Eskilsson
 - Jana Orszaghova
 - Deborah Greaves
-tags: [parametric resonance, modelling]
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-06-29T09:57:23+08:00
+lastmod: 2022-03-25T12:49:28+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:00.582167Z'
+publishDate: '2022-03-25T04:49:26.654905Z'
 publication_types:
 - '2'
 abstract: ''

@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical benchmarking study of a selection of wave energy converters
+title: Multiobjective optimization for nearshore submerged wave farms
 subtitle: ''
 summary: ''
 authors:
-- A. Babarit
-- J. Hals
-- M. J. Muliawan
-- A. Kurniawan
-- T. Moan
-- J. Krokstad
+- Daniel Raj David
+- Jeff E. Hansen
+- Adi Kurniawan
+- Hugh Wolgamot
+- Ryan Lowe
+- Guy McCauley
 tags: []
 categories: []
-date: '2012-01-01'
-lastmod: 2022-03-25T12:50:09+08:00
+date: '2021-01-01'
+lastmod: 2022-03-25T12:49:51+08:00
 featured: false
 draft: false
 
@@ -32,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:50:08.196619Z'
+publishDate: '2022-03-25T04:49:49.995144Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*Renewable Energy*'
-doi: 10.1016/j.renene.2011.10.002
+publication: '*Proceedings of the 14th European Wave and Tidal Energy Conference*'
 ---

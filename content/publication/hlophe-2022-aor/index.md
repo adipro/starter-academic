@@ -12,10 +12,10 @@ authors:
 - Adi Kurniawan
 - Jana Orszaghova
 - Scott Draper
-tags: [wave prediction]
+tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-03-25T11:21:04+08:00
+lastmod: 2022-03-25T12:49:56+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:28.962557Z'
+publishDate: '2022-03-25T04:49:55.498834Z'
 publication_types:
 - '2'
 abstract: ''

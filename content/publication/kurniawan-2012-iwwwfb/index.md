@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Torgeir Moan
-tags: [multiobjective optimisation]
+tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2021-06-29T09:57:19+08:00
+lastmod: 2022-03-25T12:49:12+08:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:45.083613Z'
+publishDate: '2022-03-25T04:49:10.549414Z'
 publication_types:
 - '1'
 abstract: ''

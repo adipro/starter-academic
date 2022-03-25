@@ -13,10 +13,10 @@ authors:
 - Zhiyong Hao
 - Soon Keat Tan
 - Edwin Nah
-tags: [air gap]
+tags: []
 categories: []
 date: '2009-05-01'
-lastmod: 2021-06-29T09:57:17+08:00
+lastmod: 2022-03-25T12:49:04+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:35.351905Z'
+publishDate: '2022-03-25T04:49:00.531873Z'
 publication_types:
 - '1'
 abstract: ''

@@ -11,10 +11,10 @@ authors:
 - ADI KURNIAWAN
 - SOON KEAT TAN
 - EDWIN NAH
-tags: [modelling, model tests]
+tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2021-06-29T09:57:18+08:00
+lastmod: 2022-03-25T12:49:07+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:41.119540Z'
+publishDate: '2022-03-25T04:49:06.387169Z'
 publication_types:
 - '1'
 abstract: ''

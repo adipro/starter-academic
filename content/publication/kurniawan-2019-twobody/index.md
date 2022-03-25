@@ -9,10 +9,10 @@ authors:
 - Adi Kurniawan
 - Matthias Grassow
 - Francesco Ferri
-tags: [modelling, parametric resonance, model tests]
+tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-06-29T10:02:54+08:00
+lastmod: 2022-03-25T12:50:02+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:34.509998Z'
+publishDate: '2022-03-25T04:50:01.077639Z'
 publication_types:
 - '2'
 abstract: ''

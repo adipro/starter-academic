@@ -10,10 +10,10 @@ authors:
 - A. Kurniawan
 - T. Moan
 - J. Krokstad
-tags: [modelling, comparison, wave energy]
+tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2021-06-29T10:02:55+08:00
+lastmod: 2022-03-25T12:50:08+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:39.123178Z'
+publishDate: '2022-03-25T04:50:05.901510Z'
 publication_types:
 - '1'
 abstract: ''

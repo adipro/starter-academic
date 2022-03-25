@@ -1,19 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The hydrodynamics of air-filled bags for wave energy conversion
+title: 'Fast unidirectional wave-by-wave prediction of weakly nonlinear wave fields:
+  Validation using physical measurements'
 subtitle: ''
 summary: ''
 authors:
-- Deborah Greaves
-- Martyn Hann
+- Thobani Hlophe
+- Hugh Wolgamot
 - Adi Kurniawan
-- JR Chaplin
-- FJM Farley
-tags: [compressible, wave energy]
+- Paul H. Taylor
+- Jana Orszaghova
+- Scott Draper
+tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2021-06-29T09:57:22+08:00
+date: '2021-01-01'
+lastmod: 2022-03-25T12:49:55+08:00
 featured: false
 draft: false
 
@@ -31,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:56.739888Z'
+publishDate: '2022-03-25T04:49:53.879462Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Conference on Offshore Renewable Energy*'
+publication: '*Proceedings of the 14th European Wave and Tidal Energy Conference*'
 ---

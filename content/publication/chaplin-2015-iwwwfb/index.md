@@ -10,10 +10,10 @@ authors:
 - Adi Kurniawan
 - Deborah Greaves
 - Martyn Hann
-tags: [compressible, model tests]
+tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-06-29T09:57:20+08:00
+lastmod: 2022-03-25T12:49:17+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:49.736937Z'
+publishDate: '2022-03-25T04:49:15.396608Z'
 publication_types:
 - '1'
 abstract: ''

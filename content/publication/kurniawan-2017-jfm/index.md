@@ -9,10 +9,10 @@ authors:
 - J. R. Chaplin
 - D. M. Greaves
 - M. Hann
-tags: [compressible, flexible, modelling, model tests]
+tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-06-29T10:02:51+08:00
+lastmod: 2022-03-25T12:49:42+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:14.611891Z'
+publishDate: '2022-03-25T04:49:40.925788Z'
 publication_types:
 - '2'
 abstract: ''

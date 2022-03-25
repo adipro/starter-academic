@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Guowei Ma
-tags: [optimisation, multiobjective optimisation]
+tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2021-06-02T09:18:38+08:00
+lastmod: 2022-03-25T12:49:33+08:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:35:05.959964Z'
+publishDate: '2022-03-25T04:49:32.386062Z'
 publication_types:
 - '2'
 abstract: ''

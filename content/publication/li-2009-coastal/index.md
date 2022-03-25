@@ -9,10 +9,10 @@ authors:
 - Soon Keat Tan
 - Zhenhua Huang
 - Adi Kurniawan
-tags: [air gap]
+tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2021-06-29T09:57:17+08:00
+lastmod: 2022-03-25T12:49:06+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:39.687469Z'
+publishDate: '2022-03-25T04:49:04.986754Z'
 publication_types:
 - '6'
 abstract: ''

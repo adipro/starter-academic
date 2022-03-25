@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Adi Kurniawan
 - Xiantao Zhang
-tags: [modelling, negative stiffness, wave energy]
+tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-06-29T09:57:23+08:00
+lastmod: 2022-03-25T12:49:26+08:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T04:34:58.965525Z'
+publishDate: '2022-03-25T04:49:24.767762Z'
 publication_types:
 - '1'
 abstract: ''
