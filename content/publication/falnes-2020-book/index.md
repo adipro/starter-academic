@@ -1,8 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy Extraction'
-subtitle: 'Second Edition'
+title: 'Ocean Waves and Oscillating Systems: Linear Interactions Including Wave-Energy
+  Extraction'
+subtitle: Second Edition
 summary: ''
 authors:
 - Johannes Falnes
@@ -11,7 +12,7 @@ tags: [wave energy, book]
 categories: []
 date: '2020-01-01'
 lastmod: 2021-06-29T10:02:53+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:30.308639Z'
+publishDate: '2022-03-25T04:35:32.167064Z'
 publication_types:
 - '5'
 abstract: ''

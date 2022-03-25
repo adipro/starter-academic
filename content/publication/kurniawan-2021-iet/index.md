@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical simulation of parametric resonance in point absorbers using a simplified model
+title: Numerical simulation of parametric resonance in point absorbers using a simplified
+  model
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +16,7 @@ tags: [parametric resonance, modelling]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T09:57:23+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:23.615621Z'
+publishDate: '2022-03-25T04:35:00.582167Z'
 publication_types:
 - '2'
 abstract: ''

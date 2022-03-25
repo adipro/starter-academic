@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Wave-Structure Interactions of Flexible Bags with Elastic Tendons: Application to Wave Energy Conversion'
+title: 'Wave-Structure Interactions of Flexible Bags with Elastic Tendons: Application
+  to Wave Energy Conversion'
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +14,7 @@ tags: [flexible, compressible, wave energy]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T10:02:52+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:28.829573Z'
+publishDate: '2022-03-25T04:35:20.232989Z'
 publication_types:
 - '2'
 abstract: ''

@@ -16,7 +16,7 @@ tags: [wave prediction]
 categories: []
 date: '2022-01-01'
 lastmod: 2022-03-25T11:21:04+08:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-25T03:21:02.281431Z'
+publishDate: '2022-03-25T04:35:28.962557Z'
 publication_types:
 - '2'
 abstract: ''

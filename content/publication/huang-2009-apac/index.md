@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Responses of a Floating Rectangular Caisson to Regular Waves: A Comparison of Measurements with Time-Domain and Frequency-Domain Simulations'
+title: 'RESPONSES OF A FLOATING RECTANGULAR CAISSON TO REGULAR WAVES: A COMPARISON
+  OF MEASUREMENTS WITH TIME-DOMAIN AND FREQUENCY-DOMAIN SIMULATIONS'
 subtitle: ''
 summary: ''
 authors:
-- Zhenhua Huang
-- Chunrong Liu
-- Adi Kurniawan
-- Soon Keat Tan
-- Edwin Nah
+- ZHENHUA HUANG
+- CHUNRONG LIU
+- ADI KURNIAWAN
+- SOON KEAT TAN
+- EDWIN NAH
 tags: [modelling, model tests]
 categories: []
 date: '2009-01-01'
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:18.375139Z'
+publishDate: '2022-03-25T04:34:41.119540Z'
 publication_types:
 - '1'
 abstract: ''

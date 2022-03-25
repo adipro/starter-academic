@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Adi Kurniawan
-- Jørgen Hals
+- Jo̸rgen Hals
 - Torgeir Moan
 tags: [oscillating water columns, modelling]
 categories: []
@@ -29,10 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:18.859208Z'
+publishDate: '2022-03-25T04:34:42.647384Z'
 publication_types:
-- '0'
+- '1'
 abstract: ''
-publication: '*International Conference on Offshore Mechanics and Arctic Engineering*'
+publication: ''
 doi: 10.1115/OMAE2011-49263
 ---

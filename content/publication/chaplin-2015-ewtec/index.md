@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical and experimental investigation of wave energy devices with inflated bags
+title: Numerical and experimental investigation of wave energy devices with inflated
+  bags
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:21.705906Z'
+publishDate: '2022-03-25T04:34:53.464919Z'
 publication_types:
 - '1'
 abstract: ''
