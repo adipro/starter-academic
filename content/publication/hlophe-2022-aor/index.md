@@ -16,7 +16,7 @@ tags: [wave prediction]
 categories: []
 date: '2022-01-01'
 lastmod: 2022-03-25T11:21:04+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

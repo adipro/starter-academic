@@ -15,7 +15,7 @@ tags: [parametric resonance, modelling]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T09:57:23+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
