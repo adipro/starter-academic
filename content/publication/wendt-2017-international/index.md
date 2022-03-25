@@ -42,10 +42,10 @@ authors:
 - P. Schofield
 - J. Jansson
 - J. Hoffman
-tags: [modelling]
+tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-06-02T09:18:34+08:00
+lastmod: 2022-03-25T12:49:29+08:00
 featured: false
 draft: false
 
@@ -63,9 +63,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:24.085738Z'
+publishDate: '2022-03-25T04:49:28.176181Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*12th European Wave and Tidal Energy Conference*'
+publication: '*Proceedings of the 12th European Wave and Tidal Energy Conference*'
 ---

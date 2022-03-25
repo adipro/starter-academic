@@ -26,10 +26,10 @@ authors:
 - R. Read
 - M. M. Kramer
 - S. Thomas
-tags: [modelling]
+tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-06-02T09:18:36+08:00
+lastmod: 2022-03-25T12:49:32+08:00
 featured: false
 draft: false
 
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:24.555597Z'
+publishDate: '2022-03-25T04:49:29.700535Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,14 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Adi Kurniawan
-- Jørgen Hals
+- Jo̸rgen Hals
 - Torgeir Moan
-tags: 
-- oscillating water columns
-- modelling
+tags: []
 categories: []
 date: '2011-06-01'
-lastmod: 2021-06-29T09:57:18+08:00
+lastmod: 2022-03-25T12:49:10+08:00
 featured: false
 draft: false
 
@@ -31,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:18.859208Z'
+publishDate: '2022-03-25T04:49:07.989160Z'
 publication_types:
-- '0'
+- '1'
 abstract: ''
 publication: ''
 doi: 10.1115/OMAE2011-49263

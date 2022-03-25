@@ -8,11 +8,10 @@ authors:
 - Adi Kurniawan
 - Eilif Pedersen
 - Torgeir Moan
-tags: 
-- modelling
+tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2021-06-29T09:57:19+08:00
+lastmod: 2022-03-25T12:49:13+08:00
 featured: false
 draft: false
 
@@ -30,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:19.803302Z'
+publishDate: '2022-03-25T04:49:12.021660Z'
 publication_types:
 - '1'
 abstract: ''

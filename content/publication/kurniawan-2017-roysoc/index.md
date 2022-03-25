@@ -10,10 +10,10 @@ authors:
 - M. R. Hann
 - D. M. Greaves
 - F. J. M. Farley
-tags: [compressible, flexible, modelling, model tests]
+tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-06-29T10:02:51+08:00
+lastmod: 2022-03-25T12:49:44+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:27.883531Z'
+publishDate: '2022-03-25T04:49:42.704052Z'
 publication_types:
 - '2'
 abstract: ''

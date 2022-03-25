@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical and experimental investigation of wave energy devices with inflated bags
+title: Numerical and experimental investigation of wave energy devices with inflated
+  bags
 subtitle: ''
 summary: ''
 authors:
@@ -11,10 +12,10 @@ authors:
 - Martyn Hann
 - Adi Kurniawan
 - Malcolm Cox
-tags: [compressible, modelling, model tests]
+tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-06-29T09:57:21+08:00
+lastmod: 2022-03-25T12:49:20+08:00
 featured: false
 draft: false
 
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:21.705906Z'
+publishDate: '2022-03-25T04:49:19.260213Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*11th European Wave and Tidal Energy Conference Proceedings*'
+publication: '*Proceedings of the 11th European Wave and Tidal Energy Conference*'
 ---

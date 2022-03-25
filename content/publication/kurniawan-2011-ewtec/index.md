@@ -8,11 +8,10 @@ authors:
 - A. Kurniawan
 - J. Hals
 - T. Moan
-tags: 
-- modelling
+tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2021-06-29T10:02:55+08:00
+lastmod: 2022-03-25T12:50:05+08:00
 featured: false
 draft: false
 
@@ -30,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-29T02:03:31.717996Z'
+publishDate: '2022-03-25T04:50:04.079111Z'
 publication_types:
 - '1'
 abstract: ''
