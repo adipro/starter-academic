@@ -12,6 +12,11 @@ main:
     weight: 20
   - name: Projects
     url: '#projects'
+    identifier: projects
+    weight: 30
+  - name: WEC Comparison
+    parent: projects
+    url: project/wec-comparison/
     weight: 30
   - name: Publications
     url: '#featured'
