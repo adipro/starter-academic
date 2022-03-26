@@ -18,6 +18,30 @@ main:
     parent: projects
     url: project/wec-comparison/
     weight: 30
+  - name: Albany waves
+    parent: projects
+    url: project/wave-characterisation/
+    weight: 40
+  - name: Compressible WECs
+    parent: projects
+    url: project/compressible-wec/
+    weight: 50
+  - name: Array optimisation
+    parent: projects
+    url: project/array-optimisation/
+    weight: 60
+  - name: Wave prediction
+    parent: projects
+    url: project/wave-prediction/
+    weight: 70
+  - name: M4 
+    parent: projects
+    url: project/m4/
+    weight: 80
+  - name: Parametric resonance 
+    parent: projects
+    url: project/parametric-resonance/
+    weight: 90
   - name: Publications
     url: '#featured'
     weight: 40
