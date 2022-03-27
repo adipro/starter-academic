@@ -19,7 +19,7 @@ organizations:
 bio: My research covers aspects of wave-structure interactions, wave energy conversion, and multi-objective optimisation. 
 
 # Interests to show in About widget
-interests:
+Research interests:
 - Ocean Wave Energy
 - Wave-Structure Interactions 
 - Multi-Objective Optimisation
