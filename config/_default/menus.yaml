@@ -49,7 +49,7 @@ main:
     url: '#talks'
     weight: 50
   - name: Personal
-    url: '#personal'
+    url: 'personal/'
     weight: 60
   - name: Contact
     url: '#contact'
