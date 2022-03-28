@@ -14,8 +14,6 @@ design:
 - I am from Indonesia
 - I have lived in 6 different countries
 - I have four children :boy: :girl: :boy: :girl: in this order and with age gap {{< math >}}$\in \{1,2,3\}${{< /math >}} years
-- I am a contributor to {{< i class="ai inaturalist">}}
-- I use {{< i class="ai overleaf">}}
 - I support :soccer: Aston Villa F.C.
 - I play :ping_pong: and :chess_pawn:
 - I eat :ramen: almost every day
