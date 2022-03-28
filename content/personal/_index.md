@@ -10,13 +10,12 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   icon_pack: emoji
-  icon_pack: ai
 ---
 - I am from Indonesia
 - I have lived in 6 different countries
 - I have four children :boy: :girl: :boy: :girl: in this order and with age gap {{< math >}}$\in \{1,2,3\}${{< /math >}} years
-- I am a contributor to :inaturalist:
-- I use :overleaf:
+- I am a contributor to {{< i class="ai inaturalist">}}
+- I use {{< i class="ai overleaf">}}
 - I support :soccer: Aston Villa F.C.
 - I play :ping_pong: and :chess_pawn:
 - I eat :ramen: almost every day
