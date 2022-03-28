@@ -11,5 +11,4 @@ design:
   columns: '1'
   icon_pack: emoji
 ---
-## Interests
-- I enjoy :ramen: :dumpling: :hot_pepper: :mushroom: :tomato:
+- I eat :ramen: almost every day.
