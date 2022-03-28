@@ -11,7 +11,7 @@ design:
   columns: '1'
   icon_pack: emoji
 ---
-- I am from Indonesia
+- I am from Indonesia :volcano:
 - I have lived in 6 different countries
 - I have four children :boy: :girl: :boy: :girl: in this order and with age gap {{< math >}}$\in \{1,2,3\}${{< /math >}} years
 - I support :soccer: Aston Villa F.C.
