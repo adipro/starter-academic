@@ -13,7 +13,7 @@ design:
 ---
 - I am from Indonesia :volcano:
 - I have lived in 6 different countries :earth_africa:
-- I have four children :boy: :girl: :boy: :girl: in this order and with age gap {{< math >}}$\in \{1,2,3\}${{< /math >}} years
+- I have four children :boy: :girl: :boy: :girl: in this order and with age gap {{< math >}}$= 1,2,3${{< /math >}} years
 - I support :soccer: Aston Villa F.C.
 - I play :ping_pong: and :chess_pawn:
 - I eat :ramen: almost every day and, occasionally, :snail:
