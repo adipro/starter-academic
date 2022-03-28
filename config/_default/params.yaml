@@ -73,7 +73,7 @@ features:
   repository:
     url: 'https://github.com/adipro/starter-academic'
     content_dir: content
-    branch: master
+    branch: whenitworked
   avatar:
     gravatar: false
     shape: circle
