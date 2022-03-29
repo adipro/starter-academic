@@ -43,5 +43,5 @@ slides: ""
 ---
 
 Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output of the array as the sole objective. Attempts to include cost into the problem are usually made by minimising the power-to-cost ratio as the objective.
-In this project, our PhD student, Daniel Raj David, considers this problem from a multiobjective perspective. Instead of a single objective, multiple objectives are considered, leading to multiple optimum solutions, which provide an insight into which array configurations are preferred for each of the competing objectives and how these objectives are traded off. .
+In this project, our PhD student, Daniel Raj David, considers this problem from a multiobjective perspective. Instead of a single objective, multiple objectives are considered, leading to multiple optimum solutions, which provide an insight into which array configurations are preferred for each of the competing objectives and how these objectives are traded off. 
 This PhD project is co-supervised by Dr. Jeff Hansen and Dr. Hugh Wolgamot.
