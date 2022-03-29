@@ -8,6 +8,8 @@ tags: [arrays, wave energy, optimisation]
 categories: []
 date: 2021-05-31T14:36:39+08:00
 
+editable: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
