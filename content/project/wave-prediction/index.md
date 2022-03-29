@@ -8,6 +8,8 @@ tags: [wave prediction, wave energy]
 categories: []
 # date: 2021-05-31T14:36:29+08:00
 
+editable: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
