@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Optimisation of arrays of wave energy converters"
-summary: "Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output as the sole objective. This project considers this problem from a multiobjective perspective. Instead of a single objective, multiple objectives are considered, leading to multiple optimal solutions, which provide an insight into which arrays are optimal for each of the competing objectives."
+summary: "Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output as the sole objective. This project considers this problem from a multiobjective perspective. Instead of a single solution, multiple solutions are sought, providing an insight into which arrays are optimal for each of the competing objectives."
 authors: []
-tags: [arrays, wave energy, optimisation]
+tags: [arrays, wave energy, multiobjective optimisation]
 categories: []
 date: 2021-05-31T14:36:39+08:00
 
@@ -42,6 +42,6 @@ url_video: ""
 slides: ""
 ---
 
-Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output as the sole objective. Attempts to include cost into the problem are usually made by minimising the power-to-cost ratio as the objective.
-In this project, our PhD student, Daniel Raj David, considers this problem from a multiobjective perspective. Instead of a single objective, multiple objectives are considered, leading to multiple optimum solutions, which provide an insight into which array configurations are preferred for each of the competing objectives.
+Most studies on optimisation of arrays of wave energy converters are concerned with maximising the overall power output of the array as the sole objective. Attempts to include cost into the problem are usually made by minimising the power-to-cost ratio as the objective.
+In this project, our PhD student, Daniel Raj David, considers this problem from a multiobjective perspective. Instead of a single objective, multiple objectives are considered, leading to multiple optimum solutions, which provide an insight into which array configurations are preferred for each of the competing objectives and how these objectives are traded off. .
 This PhD project is co-supervised by Dr. Jeff Hansen and Dr. Hugh Wolgamot.
