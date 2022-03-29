@@ -8,6 +8,8 @@ tags: [wave energy, economics, comparison]
 categories: []
 date: 2021-05-31T14:38:23+08:00
 
+editable: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
