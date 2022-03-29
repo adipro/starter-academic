@@ -8,6 +8,8 @@ tags: [wave energy, parametric resonance, modelling]
 categories: []
 # date: 2021-05-31T14:35:39+08:00
 
+editable: true
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
