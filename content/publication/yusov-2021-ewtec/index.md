@@ -13,6 +13,7 @@ authors:
 tags: 
 - economics
 - wave energy
+- comparison
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-29T10:02:55+08:00
