@@ -18,4 +18,4 @@ This unit is currently offered every second semester.
 Lecture notes: {{% staticref "uploads/Wave energy 1.pdf" "newtab" %}}Part 1{{% /staticref %}} and {{% staticref "uploads/Wave energy 2.pdf" "newtab" %}}Part 2{{% /staticref %}}.
 
 ---
-Leave any comment, question, or correction in the [Contact](https://wavepowerlab.netlify.app/#contact) form. 
+Leave any comment, question, or suggestion in the [Contact](https://wavepowerlab.netlify.app/#contact) form. 
