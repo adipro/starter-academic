@@ -11,7 +11,7 @@ design:
   columns: '1'
   icon_pack: emoji
 ---
-I am responsible for teaching part of the wave energy content of the [OCEN4007 Renewable Ocean Energy](https://handbooks.uwa.edu.au/unitdetails?code=OCEN4007) unit.
+I am responsible for teaching part of the wave energy content of the [OCEN4007 Renewable Ocean Energy](https://handbooks.uwa.edu.au/unitdetails?code=OCEN4007) unit at UWA.
 This unit is currently offered every second semester. 
 
 ### 2021
