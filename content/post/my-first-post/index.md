@@ -15,6 +15,8 @@ lastmod: 2021-05-31T10:50:20+08:00
 featured: false
 draft: false
 
+active: false
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
