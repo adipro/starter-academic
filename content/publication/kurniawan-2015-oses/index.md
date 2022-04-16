@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Adi Kurniawan
 - D. M. Greaves
-tags: [compressible, flexible]
+tags: [compressible, flexible, wave energy, generalised modes]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T09:57:21+08:00

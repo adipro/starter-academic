@@ -10,7 +10,7 @@ authors:
 - Adi Kurniawan
 - JR Chaplin
 - FJM Farley
-tags: []
+tags: [wave energy, compressible, flexible]
 categories: []
 date: '2016-01-01'
 lastmod: 2022-03-25T16:26:24+08:00

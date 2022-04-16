@@ -11,7 +11,7 @@ authors:
 - Martyn Hann
 - Adi Kurniawan
 - Malcolm Cox
-tags: [compressible, modelling, model tests]
+tags: [compressible, modelling, model tests, wave energy, flexible]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T09:57:21+08:00

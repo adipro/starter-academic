@@ -10,7 +10,7 @@ authors:
 - Adi Kurniawan
 - Deborah Greaves
 - Martyn Hann
-tags: [compressible, model tests]
+tags: [compressible, model tests, flexible]
 categories: []
 date: '2015-01-01'
 lastmod: 2021-06-29T09:57:20+08:00

@@ -9,7 +9,7 @@ authors:
 - Adi Kurniawan
 - Matthias Grassow
 - Francesco Ferri
-tags: [modelling, parametric resonance, model tests]
+tags: [modelling, parametric resonance, model tests, wave energy, generalised modes]
 categories: []
 date: '2019-01-01'
 lastmod: 2021-06-29T10:02:54+08:00

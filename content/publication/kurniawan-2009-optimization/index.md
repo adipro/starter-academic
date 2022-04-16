@@ -10,6 +10,8 @@ authors:
 tags: 
 - optimisation
 - multiobjective optimisation
+- load-out
+- jackets
 categories: []
 date: '2009-01-01'
 lastmod: 2021-06-02T09:18:38+08:00

@@ -9,6 +9,8 @@ authors:
 - Torgeir Moan
 tags: 
 - multiobjective optimisation
+- wave energy
+- geometry
 categories: []
 date: '2012-01-01'
 lastmod: 2021-06-29T09:57:19+08:00

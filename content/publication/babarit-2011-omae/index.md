@@ -10,7 +10,7 @@ authors:
 - A. Kurniawan
 - T. Moan
 - J. Krokstad
-tags: [modelling, comparison]
+tags: [modelling, comparison, wave energy]
 categories: []
 date: '2011-01-01'
 lastmod: 2021-06-29T10:02:55+08:00

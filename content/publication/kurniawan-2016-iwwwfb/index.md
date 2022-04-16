@@ -10,7 +10,7 @@ authors:
 - Martyn Hann
 - John Chaplin
 - Francis Farley
-tags: [compressible, flexible]
+tags: [compressible, flexible, wave energy]
 categories: []
 date: '2016-01-01'
 lastmod: 2021-06-29T09:57:22+08:00

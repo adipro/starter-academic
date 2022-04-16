@@ -11,7 +11,7 @@ authors:
 - Jana Orszaghova
 - Hugh Wolgamot
 tags: 
-- comparison
+- economics
 - wave energy
 categories: []
 date: '2021-01-01'
