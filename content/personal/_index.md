@@ -13,7 +13,7 @@ design:
 ---
 - I am from Indonesia :volcano:
 - I have lived in 6 different countries :earth_africa:
-- I am blessed with a beautiful wife and four children :boy: :girl: :boy: :girl: 
+- I am blessed with a beautiful wife and four children :boy: :girl: :boy: :girl: (in this particular order)
 - I support :soccer: Aston Villa F.C.
-- I play :ping_pong: and :chess_pawn:
+- I play :ping_pong: and :chess_pawn: (but not so well)
 - I eat :ramen: almost every day and, occasionally, :snail:
