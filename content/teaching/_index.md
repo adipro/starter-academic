@@ -12,10 +12,15 @@ design:
   icon_pack: emoji
 ---
 I am responsible for teaching part of the wave energy content of the [OCEN4007 Renewable Ocean Energy](https://handbooks.uwa.edu.au/unitdetails?code=OCEN4007) unit at UWA.
-This unit is currently offered every second semester. 
+This unit is currently offered every second semester.
 
-### 2021
+### 2022
+
 Lecture notes: {{% staticref "uploads/Wave energy 1.pdf" "newtab" %}}Part 1{{% /staticref %}} and {{% staticref "uploads/Wave energy 2.pdf" "newtab" %}}Part 2{{% /staticref %}}.
 
+<!-- ### 2021
+
+Lecture notes: {{% staticref "uploads/Wave energy 1.pdf" "newtab" %}}Part 1{{% /staticref %}} and {{% staticref "uploads/Wave energy 2.pdf" "newtab" %}}Part 2{{% /staticref %}}. -->
+
 ---
-Leave any comment, question, or suggestion in the [Contact](https://wavepowerlab.netlify.app/#contact) form. 
+Leave any comment, question, or suggestion in the [Contact](https://wavepowerlab.netlify.app/#contact) form.
