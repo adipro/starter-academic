@@ -1,20 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modelling and Simulation of a Floating Oscillating Water Column
+title: Measuring a rogue? An investigation into an apparent giant wave
 subtitle: ''
 summary: ''
 authors:
 - Adi Kurniawan
-- Jørgen Hals
-- Torgeir Moan
-tags: 
-- oscillating water columns
-- modelling
-- wave energy
+- Paul H. Taylor
+- Jana Orszaghova
+- Hugh Wolgamot
+- Jeff Hansen
+tags: [rogue waves, buoy observations, wave properties]
 categories: []
-date: '2011-06-01'
-lastmod: 2021-06-29T09:57:18+08:00
+date: '2022-08-01'
+lastmod: 2021-06-29T10:02:53+08:00
 featured: false
 draft: false
 
@@ -31,11 +30,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-06-29T02:03:18.859208Z'
+projects: ["wave-characterisation"]
+publishDate: '2021-06-29T02:03:29.808057Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: ''
-doi: 10.1115/OMAE2011-49263
+publication: '*Journal of Atmospheric and Oceanic Technology*'
+doi: 10.1175/JTECH-D-21-0108.1
 ---

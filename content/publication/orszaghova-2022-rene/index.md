@@ -1,20 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modelling and Simulation of a Floating Oscillating Water Column
+title: 'Variability of wave power production of the M4 machine at two energetic open ocean locations: Off Albany, Western Australia and at EMEC, Orkney, UK'
 subtitle: ''
 summary: ''
 authors:
+- Jana Orszaghova
+- S. Lemoine
+- H. Santo
+- Paul H. Taylor
 - Adi Kurniawan
-- Jørgen Hals
-- Torgeir Moan
-tags: 
-- oscillating water columns
-- modelling
-- wave energy
+- N. McGrath
+- Wenhua Zhao
+- M. V. W. Cuttler
+tags: [M4, variability, intermittency, wave energy]
 categories: []
-date: '2011-06-01'
-lastmod: 2021-06-29T09:57:18+08:00
+date: '2022-09-01'
+lastmod: 2021-06-29T10:02:53+08:00
 featured: false
 draft: false
 
@@ -31,11 +33,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-06-29T02:03:18.859208Z'
+projects: ["wave-characterisation", "m4"]
+publishDate: '2021-06-29T02:03:29.808057Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: ''
-doi: 10.1115/OMAE2011-49263
+publication: '*Renewable Energy*'
+doi: 10.1016/j.renene.2022.07.053
 ---

@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modelling and Simulation of a Floating Oscillating Water Column
+title: 'Wave-by-wave prediction in narrowly spread seas using fixed- and drifting-point wave records: Validation using physical measurements'
 subtitle: ''
 summary: ''
 authors:
-- Adi Kurniawan
-- Jørgen Hals
-- Torgeir Moan
-tags: 
-- oscillating water columns
-- modelling
-- wave energy
+- T. Hlophe
+- H. Wolgamot
+- P. H. Taylor
+- A. Kurniawan
+- J. Orszaghova
+- S. Draper
+tags: [wave prediction]
 categories: []
-date: '2011-06-01'
-lastmod: 2021-06-29T09:57:18+08:00
+date: '2022-06-05'
+lastmod: 2021-06-29T10:02:55+08:00
 featured: false
 draft: false
 
@@ -31,11 +31,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-06-29T02:03:18.859208Z'
+projects: ["wave-prediction"]
+publishDate: '2021-06-29T02:03:32.195117Z'
 publication_types:
 - '1'
 abstract: ''
-publication: ''
-doi: 10.1115/OMAE2011-49263
+publication: '*Proceedings of the 41st International Conference on Ocean, Offshore and Arctic Engineering*'
 ---
