@@ -23,4 +23,4 @@ Lecture notes: {{% staticref "uploads/Wave energy 1.pdf" "newtab" %}}Part 1{{% /
 Lecture notes: {{% staticref "uploads/Wave energy 1.pdf" "newtab" %}}Part 1{{% /staticref %}} and {{% staticref "uploads/Wave energy 2.pdf" "newtab" %}}Part 2{{% /staticref %}}. -->
 
 ---
-Leave any comment, question, or suggestion in the [Contact](https://wavepowerlab.netlify.app/#contact) form.
+Please leave any comment, question, or suggestion in the [Contact](https://wavepowerlab.netlify.app/#contact) form.
