@@ -16,7 +16,7 @@ This unit is currently offered every second semester.
 
 ### 2022
 
-Lecture notes: {{% staticref "uploads/Wave energy 1.pdf" "newtab" %}}Part 1{{% /staticref %}} and {{% staticref "uploads/Wave energy 2.pdf" "newtab" %}}Part 2{{% /staticref %}}.
+Lecture notes: {{% staticref "uploads/Wave energy Part 1 - Notes.pdf" "newtab" %}}Part 1{{% /staticref %}} and {{% staticref "uploads/Wave energy Part 2 - Notes.pdf" "newtab" %}}Part 2{{% /staticref %}}.
 
 <!-- ### 2021
 
