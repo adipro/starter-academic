@@ -32,4 +32,4 @@ slides: ""
 ---
 
 The M4 is a multi-float wave energy converter developed by Professor Peter Stansby from the University of Manchester. In this project, our Master's student Nicholas McGrath is developing a numerical tool to optimise the design of the device. The tool couples a dynamic model of the device and a boundary element software. A generalised-mode approach is used to derive the equations of motion of the device.
-This project is co-supervised by Dr. Hugh Wolgamot and Dr. Jana Orszaghova. 
+This project is co-supervised by [Dr. Hugh Wolgamot](https://research-repository.uwa.edu.au/en/persons/hugh-wolgamot) and [Dr. Jana Orszaghova](https://research-repository.uwa.edu.au/en/persons/jana-orszaghova).
