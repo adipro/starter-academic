@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical benchmarking study of a selection of wave energy converters
+title: 'Numerical benchmarking study of a selection of wave energy converters'
 subtitle: ''
 summary: ''
 authors:

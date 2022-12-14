@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Fast wave-by-wave prediction of weakly nonlinear unidirectional wave fields
+title: 'Fast wave-by-wave prediction of weakly nonlinear unidirectional wave fields'
 subtitle: ''
 summary: ''
 authors:

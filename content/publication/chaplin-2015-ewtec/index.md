@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical and experimental investigation of wave energy devices with inflated bags
+title: 'Numerical and experimental investigation of wave energy devices with inflated bags'
 subtitle: ''
 summary: ''
 authors:

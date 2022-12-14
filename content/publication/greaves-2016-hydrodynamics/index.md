@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The hydrodynamics of air-filled bags for wave energy conversion
+title: 'The hydrodynamics of air-filled bags for wave energy conversion'
 subtitle: ''
 summary: ''
 authors:

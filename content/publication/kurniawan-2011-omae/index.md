@@ -36,6 +36,6 @@ publishDate: '2021-06-29T02:03:18.859208Z'
 publication_types:
 - '1'
 abstract: ''
-publication: ''
+publication: '*Proceedings of the 30th International Conference on Ocean, Offshore and Arctic Engineering*'
 doi: 10.1115/OMAE2011-49263
 ---

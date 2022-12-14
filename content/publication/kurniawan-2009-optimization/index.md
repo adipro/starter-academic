@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Optimization of ballast plan in launch jacket load-out
+title: 'Optimization of ballast plan in launch jacket load-out'
 subtitle: ''
 summary: ''
 authors:

@@ -1,20 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Forced heaving motion of a floating air-filled bag'
+title: 'Nearshore submerged wave farm optimisation: A multi-objective approach'
 subtitle: ''
 summary: ''
 authors:
-- John Chaplin
-- Francis Farley
+- Daniel R. David
 - Adi Kurniawan
-- Deborah Greaves
-- Martyn Hann
-tags: [compressible, model tests, flexible]
+- Hugh Wolgamot
+- Jeff Hansen
+- Dirk Rijnsdorp
+- Ryan Lowe
+tags: [optimisation, arrays]
 categories: []
-date: '2015-01-01'
-lastmod: 2021-06-29T09:57:20+08:00
-featured: false
+date: '2022-07-01'
+lastmod: 2021-06-29T10:02:53+08:00
+featured: true
 draft: false
 
 # Featured image
@@ -30,11 +31,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-06-29T02:03:20.743754Z'
+projects: ["array-optimisation"]
+publishDate: '2021-06-29T02:03:29.808057Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of 30th International Workshop on Water Waves and Floating
-  Bodies*'
+publication: '*Applied Ocean Research*'
+doi: 10.1016/j.apor.2022.103225
 ---

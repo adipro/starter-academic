@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Bond graph modelling of a wave energy conversion system with hydraulic power
-  take-off
+title: 'Bond graph modelling of a wave energy conversion system with hydraulic power
+  take-off'
 subtitle: ''
 summary: ''
 authors:

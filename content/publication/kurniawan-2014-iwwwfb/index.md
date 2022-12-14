@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multi-resonant compressible wave energy devices
+title: 'Multi-resonant compressible wave energy devices'
 subtitle: ''
 summary: ''
 authors:
@@ -38,6 +38,6 @@ publishDate: '2021-06-29T02:03:20.275648Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proc. 29th Int. Workshop on Water Waves and Floating Bodies, Osaka,
+publication: '*Proceedings of the 29th International Workshop on Water Waves and Floating Bodies, Osaka,
   Japan*'
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Assessment of time-domain models of wave energy conversion systems
+title: 'Assessment of time-domain models of wave energy conversion systems'
 subtitle: ''
 summary: ''
 authors:

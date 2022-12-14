@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Power absorption measures and comparisons of selected wave energy converters
+title: 'Power absorption measures and comparisons of selected wave energy converters'
 subtitle: ''
 summary: ''
 authors:

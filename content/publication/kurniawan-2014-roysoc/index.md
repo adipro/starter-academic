@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave energy devices with compressible volumes
+title: 'Wave energy devices with compressible volumes'
 subtitle: ''
 summary: ''
 authors:

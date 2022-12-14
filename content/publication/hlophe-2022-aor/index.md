@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave-by-wave prediction in weakly nonlinear and narrowly spread seas using fixed-point surface-elevation time histories
+title: 'Wave-by-wave prediction in weakly nonlinear and narrowly spread seas using fixed-point surface-elevation time histories'
 subtitle: ''
 summary: ''
 authors:

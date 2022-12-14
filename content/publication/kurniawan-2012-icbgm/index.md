@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modelling of wave energy converters using bond graph
+title: 'Modelling of wave energy converters using bond graph'
 subtitle: ''
 summary: ''
 authors:
@@ -36,5 +36,5 @@ publishDate: '2021-06-29T02:03:19.803302Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proc. 10th Int. Conf. Bond Graph Model. Simulation, ICBGM*'
+publication: '*Proceedings of the 10th International Conference on Bond Graph Modeling and Simulation*'
 ---

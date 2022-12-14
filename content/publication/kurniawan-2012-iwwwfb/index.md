@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multi-objective optimization of a wave energy absorber geometry
+title: 'Multi-objective optimization of a wave energy absorber geometry'
 subtitle: ''
 summary: ''
 authors:
@@ -35,5 +35,5 @@ publishDate: '2021-06-29T02:03:19.330890Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*27th International Workshop on Water Waves and Floating Bodies*'
+publication: '*Proceedings of the 27th International Workshop on Water Waves and Floating Bodies*'
 ---

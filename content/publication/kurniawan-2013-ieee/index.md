@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Optimal Geometries for Wave Absorbers Oscillating About a Fixed Axis
+title: 'Optimal Geometries for Wave Absorbers Oscillating About a Fixed Axis'
 subtitle: ''
 summary: ''
 authors:

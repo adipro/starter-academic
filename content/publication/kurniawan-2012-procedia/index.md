@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Characteristics of a Pitching Wave Absorber with Rotatable flap
+title: 'Characteristics of a Pitching Wave Absorber with Rotatable flap'
 subtitle: ''
 summary: ''
 authors:

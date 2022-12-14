@@ -35,6 +35,6 @@ publishDate: '2021-06-29T02:03:18.375139Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Asian and Pacific Coasts 2009*'
+publication: '*Proceedings of the 5th International Conference on Asian and Pacific Coasts*'
 doi: 10.1142/9789814287951_0163
 ---

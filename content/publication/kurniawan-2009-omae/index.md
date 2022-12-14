@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Numerical Analysis of the Response and Air Gap Demand for Semi-Submersibles
+title: 'A Numerical Analysis of the Response and Air Gap Demand for Semi-Submersibles'
 subtitle: ''
 summary: ''
 authors:
@@ -38,6 +38,6 @@ publishDate: '2021-06-29T02:03:17.421561Z'
 publication_types:
 - '1'
 abstract: ''
-publication: ''
+publication: '*Proceedings of the 28th International Conference on Ocean, Offshore and Arctic Engineering*'
 doi: 10.1115/OMAE2009-79163
 ---

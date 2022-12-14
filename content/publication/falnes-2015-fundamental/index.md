@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Fundamental formulae for wave-energy conversion
+title: 'Fundamental formulae for wave-energy conversion'
 subtitle: ''
 summary: ''
 authors:
