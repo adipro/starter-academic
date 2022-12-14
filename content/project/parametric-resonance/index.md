@@ -45,4 +45,4 @@ slides: ""
 Parametric resonance is a nonlinear phenomenon in which an oscillating system's response frequency can be different from the excitation frequency.
 Some wave energy converters are prone to this phenomenon, which can degrade their performance.
 The aim of this project is to develop fast, simplified models to capture this nonlinear response in the time domain.
-This project is a collaboration with the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), the [University of Plymouth](https://www.plymouth.ac.uk/), and [Aalborg University](https://www.en.aau.dk/).
+This project is a collaboration with the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), [National Yang Ming Chiao Tung University](https://en.nycu.edu.tw/), the [University of Plymouth](https://www.plymouth.ac.uk/), and [Aalborg University](https://www.en.aau.dk/).
