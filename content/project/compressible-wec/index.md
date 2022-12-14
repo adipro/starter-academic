@@ -42,7 +42,7 @@ url_video: ""
 slides: ""
 ---
 
-Compressible or variable-volume wave energy converters are a type of wave energy converters that expands and contracts under the action of the waves. 
+Compressible or variable-volume wave energy converters are a type of wave energy converters that expands and contracts under the action of the waves.
 Owing to their unconventional modes of motion, such devices can have more superior properties than rigid devices.
-To model their interactions with the waves, a generalised-mode approach is used to describe their motions. 
-
+This project aims to unlock the potential of compressible WECs through a combination of numerical optimisation and physical testing.
+<!-- To model their interactions with the waves, a generalised-mode approach is used to describe their motions. -->
