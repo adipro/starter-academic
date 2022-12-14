@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave energy absorption by a floating air-filled bag
+title: 'Wave energy absorption by a floating air-filled bag'
 subtitle: ''
 summary: ''
 authors:
@@ -35,6 +35,6 @@ publishDate: '2021-06-29T02:03:22.173540Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of 31st International Workshop on Water Waves and Floating
+publication: '*Proceedings of the 31st International Workshop on Water Waves and Floating
   Bodies*'
 ---

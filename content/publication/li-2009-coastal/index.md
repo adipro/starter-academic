@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave Amplification and Air-gap Response under a Multi-column Platform
+title: 'Wave Amplification and Air-gap Response under a Multi-column Platform'
 subtitle: ''
 summary: ''
 authors:

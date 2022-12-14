@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Numerical modelling and wave tank testing of a self-reacting two-body wave
-  energy device
+title: 'Numerical modelling and wave tank testing of a self-reacting two-body wave
+  energy device'
 subtitle: ''
 summary: ''
 authors:

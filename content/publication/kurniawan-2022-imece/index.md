@@ -5,15 +5,12 @@ title: 'An efficient time-domain model to simulate parametric resonances in a fl
 subtitle: ''
 summary: ''
 authors:
-- T. Hlophe
-- H. Wolgamot
-- P. H. Taylor
-- A. Kurniawan
-- J. Orszaghova
-- S. Draper
-tags: [wave prediction]
+- Adi Kurniawan
+- Thanh Toan Tran
+- Yi-Hsiang Yu
+tags: [parametric resonance]
 categories: []
-date: '2022-06-05'
+date: '2022-11-03'
 lastmod: 2021-06-29T10:02:55+08:00
 featured: false
 draft: false
@@ -31,10 +28,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["wave-prediction"]
+projects: ["parametric-resonance"]
 publishDate: '2021-06-29T02:03:32.195117Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 41st International Conference on Ocean, Offshore and Arctic Engineering*'
+publication: '*Proceedings of the ASME 2022 International
+Mechanical Engineering Congress and Exposition*'
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Application of a negative stiffness mechanism on pitching wave energy devices
+title: 'Application of a negative stiffness mechanism on pitching wave energy devices'
 subtitle: ''
 summary: ''
 authors:
@@ -32,5 +32,5 @@ publishDate: '2021-06-29T02:03:23.127710Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of Offshore Energy and Storage 2018*'
+publication: '*Proceedings of the 5th Offshore Energy and Storage Symposium*'
 ---

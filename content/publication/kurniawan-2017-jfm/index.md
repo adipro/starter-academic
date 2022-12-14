@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave energy absorption by a floating air bag
+title: 'Wave energy absorption by a floating air bag'
 subtitle: ''
 summary: ''
 authors:

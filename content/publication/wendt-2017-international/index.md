@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: International Energy Agency Ocean Energy Systems Task 10 Wave Energy Converter
-  Modeling Verification and Validation
+title: 'International Energy Agency Ocean Energy Systems Task 10 Wave Energy Converter
+  Modeling Verification and Validation'
 subtitle: ''
 summary: ''
 authors:
@@ -67,5 +67,5 @@ publishDate: '2021-06-29T02:03:24.085738Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*12th European Wave and Tidal Energy Conference*'
+publication: '*Proceedings of the 12th European Wave and Tidal Energy Conference*'
 ---

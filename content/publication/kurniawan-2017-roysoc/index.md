@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave energy absorption by a submerged air bag connected to a rigid float
+title: 'Wave energy absorption by a submerged air bag connected to a rigid float'
 subtitle: ''
 summary: ''
 authors:

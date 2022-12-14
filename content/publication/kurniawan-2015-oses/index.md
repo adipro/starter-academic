@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Broad-banded wave power absorption with submerged balloons
+title: 'Broad-banded wave power absorption with submerged balloons'
 subtitle: ''
 summary: ''
 authors:
@@ -32,5 +32,5 @@ publishDate: '2021-06-29T02:03:21.230457Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2nd Offshore Energy Storage Symposium*'
+publication: '*Proceedings of the 2nd Offshore Energy and Storage Symposium*'
 ---

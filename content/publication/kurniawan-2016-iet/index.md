@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wave power absorption by a submerged balloon fixed to the sea bed
+title: 'Wave power absorption by a submerged balloon fixed to the sea bed'
 subtitle: ''
 summary: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: OES Task 10 WEC heaving sphere performance modelling verification
+title: 'OES Task 10 WEC heaving sphere performance modelling verification'
 subtitle: ''
 summary: ''
 authors:

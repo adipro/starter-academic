@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Measuring a rogue? An investigation into an apparent giant wave
+title: 'Measuring a rogue? An investigation into an apparent giant wave'
 subtitle: ''
 summary: ''
 authors:
