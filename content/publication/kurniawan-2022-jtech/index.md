@@ -36,5 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Atmospheric and Oceanic Technology*'
-doi: 10.1175/JTECH-D-21-0108.1
+doi: 10.48550/arXiv.2211.00957
 ---
